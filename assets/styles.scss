@@ -1,0 +1,63 @@
+---
+title: false
+styles: true
+---
+
+// Background colors
+$backgroundColour: #ffffff !default;
+$headerBackgroundColour: #120E0D !default; // Black header
+$footerBackgroundColour: #384743 !default;
+
+
+// Define color variables
+
+// Define color variables
+$headerLinkHoverColor: #FED944 !default; // Yellow for hover and active links
+// Define color variables
+$linkColour: #F33F3E !default;         // Red for all links
+$hoverColour: #A9131D !default;        // Darker red for hover effects
+
+
+// Override header styles
+.header {
+  background-color: $headerBackgroundColour;
+  
+  // Make text in the header white for better contrast
+  .nav {
+    a {
+      color: #ffffff; // White text for navigation links
+      
+      &:hover {
+        color: $headerLinkHoverColor; // Yellow on hover
+      }
+    }
+  }
+  
+  // If your current page indicator needs adjustment
+  .item--current {
+    a {
+      color: $headerLinkHoverColor; // Yellow for current page
+    }
+  }
+}
+
+// Make feature banner text white
+.feature {
+  .container {
+    .typeset {
+      color: #ffffff;
+    }
+    
+    // Target all headings in the feature container
+    h1, h2, h3, h4, h5, h6 {
+      color: #ffffff !important;
+      text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); // Add shadow for better contrast
+    }
+  }
+}
+
+
+
+// Import original theme styles after your customizations
+@import "alembic";
+
