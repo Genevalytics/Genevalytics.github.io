@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Introduction to Docker, Part 3"
-event_date: 2025-04-27
+event_date: "2025-04-27"
 start_time: "6:00 PM"
 end_time: "8:00 PM"
 location: "University of Geneva, Room TBD"

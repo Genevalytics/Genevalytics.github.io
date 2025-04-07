@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Title"
-event_date: 2025-04-24
+event_date: "2025-04-24"
 start_time: "6:00 PM"
 end_time: "8:00 PM"
 location: "University of Geneva, Room TBD"
