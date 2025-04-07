@@ -38,10 +38,15 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Events
+  url: /events/
 - title: Members
   url: /members/
+- title: Contact
+  url: /contact/
+# - title: Blog
+#   url: /blog/
+
 
 # Footer nav
 navigation_footer:
@@ -64,6 +69,20 @@ collections:
     description: "Meet the Team"
     feature_text: |
       Meet the Team
+  events:
+    title: Events
+    output: true
+    permalink: /events/:name/
+    description: "Events"
+    feature_text: |
+      Upcoming and Past Events
+  announcements:
+    title: Annoucements
+    output: true
+    permalink: /announcements/:name/
+    description: "Announcements"
+    feature_text: |
+      Annoucements
 
 # Collection settings
 defaults:
@@ -77,5 +96,11 @@ defaults:
     scope:
       path: ""
       type: "pages"
+    values:
+      layout: page # Set the default layout for pages
+  -
+    scope:
+      path: ""
+      type: "events"
     values:
       layout: page # Set the default layout for pages
