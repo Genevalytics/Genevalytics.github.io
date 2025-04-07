@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Introduction to Linear Optimization with Python"
-event_date: TBD
+event_date: "TBD"
 start_time: "6:00 PM"
 end_time: "8:00 PM"
 location: "University of Geneva, Room TBD"
