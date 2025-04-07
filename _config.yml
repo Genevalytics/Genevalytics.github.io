@@ -22,11 +22,11 @@ plugins:
 
 # Site settings
 url: 'https://genevalytics.github.io'
-baseurl: '/'
+baseurl: ''
 title: 'Genevalytics'
 description: 'This is my new website'
 permalink: pretty
-logo: "assets/files/genevalytics_logo.png"
+logo: "/assets/files/genevalytics_logo.png"
 
 # Pagination
 paginate: 5
