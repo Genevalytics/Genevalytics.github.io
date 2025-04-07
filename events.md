@@ -5,12 +5,13 @@ title: Events
 
 ## Upcoming Events
 
-{% assign sorted_events = site.events | sort: "event_date" %}
+{% assign sorted_events = site.events | sort: "series_number" %}
 
 {% for event in sorted_events %}
   {% if event.upcoming and event.hide != true %}
 ### [{{ event.title }}]({{ event.url }})
 **Date:** {{ event.event_date | date: "%B %d, %Y" }}
+**Time:** {{ event.start_time }} <br>
 **Location:** {{ event.location }}
 
 [More information]({{ event.url }})
@@ -28,7 +29,7 @@ No upcoming events scheduled. Check back soon!
 {% for event in sorted_events reversed %}
   {% unless event.upcoming or event.hide == true %}
 ### [{{ event.title }}]({{ event.url }})
-**Date:** {{ event.event_date | date: "%B %d, %Y" }}
+**Date:** {{ event.event_date | date: "%B %d, %Y" }}  
 **Location:** {{ event.location }}
 
 [More information]({{ event.url }})

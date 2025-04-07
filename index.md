@@ -8,6 +8,8 @@ title: Welcome to Genevalytics
 
 We are excited to announce the launch of Genevalytics, a new speaker series in Geneva for professionals and beginners alike to learn and share knowledge about the latest methods, techniques, technologies and applications of statistics, machine learning and AI. Our goal is to organize practical, hands-on presentations and demonstrations on a semi-regular basis. 
 
+Interested in learning more, contributing to the organization, or giving a talk? Please contact us! 
+
 ---
 
 ## Announcements
@@ -22,6 +24,7 @@ We are excited to announce the launch of Genevalytics, a new speaker series in G
 **Date:** {{ announcement.annoucement_date | date: "%B %d, %Y" }}  
 
 
+
   {% endif %}
 {% endfor %}
 
@@ -29,10 +32,11 @@ We are excited to announce the launch of Genevalytics, a new speaker series in G
 *No new announcements. Check back soon!*
 {% endif %}
 
+---
 
 ## Upcoming Events
 
-{% assign sorted_events = site.events | sort: "event_date" %}
+{% assign sorted_events = site.events | sort: "series_number" %}
 {% assign has_upcoming = false %}
 
 {% for event in sorted_events %}
@@ -40,6 +44,7 @@ We are excited to announce the launch of Genevalytics, a new speaker series in G
     {% assign has_upcoming = true %}
 ### [{{ event.title }}]({{ event.url }})
 **Date:** {{ event.event_date | date: "%B %d, %Y" }}  
+**Time:** {{ event.start_time }} <br>
 **Location:** {{ event.location }}
 
   {% endif %}
@@ -66,7 +71,6 @@ We work in conjunction with [WeData](https://wedata.ch/), an association of the 
 
 Stay informed about upcoming events by following us:
 
-- [Join our GitHub organization](https://github.com/Genevalytics)
 - [Join our WhatsApp group](https://chat.whatsapp.com/Htx3lgNLKeP9TvybQhimct)
 
 ## Contact
