@@ -8,7 +8,7 @@ services:
     volumes:
       - .:/site
     ports:
-      - "4000:4000"
+      - "4001:4000"
     environment:
       - JEKYLL_ENV=development
     command: bundle exec jekyll serve --host 0.0.0.0 --livereload
