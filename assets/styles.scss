@@ -56,7 +56,11 @@ $hoverColour: #A9131D !default;        // Darker red for hover effects
   }
 }
 
-
+.partner-logo {
+  max-width: 200px;
+  height: auto;
+  margin: 1rem 0;
+}
 
 // Import original theme styles after your customizations
 @import "alembic";

@@ -1,5 +1,7 @@
 ---
-title: About this website
+title: About us
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+We are excited to announce the launch of Genevalytics, a new speaker series in Geneva for professionals and beginners alike to learn and share knowledge about the latest methods, techniques, technologies and applications of statistics, machine learning and AI. Our goal is to organize practical, hands-on presentations and demonstrations on a semi-regular basis. 
+
+
