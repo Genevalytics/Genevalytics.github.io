@@ -71,6 +71,7 @@ We work in conjunction with [WeData](https://wedata.ch/), an association of the 
 
 Stay informed about upcoming events by following us:
 
+- [Follow us on LinkedIn](https://www.linkedin.com/company/genevalytics/)
 - [Join our WhatsApp group](https://chat.whatsapp.com/Htx3lgNLKeP9TvybQhimct)
 
 ## Contact
