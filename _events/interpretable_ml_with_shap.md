@@ -4,7 +4,7 @@ title: "Interpretable Machine Learning with SHAP Values"
 event_date: "2025-04-24"
 start_time: "6:15 PM"
 end_time: "8:00 PM"
-location: "University of Geneva, Room M3220"
+location: "University of Geneva, Uni Mail Room M3220"
 speakers:
   - name: "Carson Sprock"
     title: "Data Scientist"
