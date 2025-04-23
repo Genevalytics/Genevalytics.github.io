@@ -5,6 +5,7 @@ event_date: "2025-04-24"
 start_time: "6:15 PM"
 end_time: "8:00 PM"
 location: "University of Geneva, Uni Mail Room M3220"
+address: "Bd du Pont-d'Arve 40, 1205 Genève"
 speakers:
   - name: "Carson Sprock"
     title: "Data Scientist"
@@ -28,6 +29,7 @@ Explaining how a model arrived at a prediction is an important part of using mac
 - **Date:** {{ page.event_date | date: "%B %d, %Y" }}
 - **Time:** {{ page.start_time }} - {{ page.end_time }}
 - **Location:** {{ page.location }}
+- **Address:** {{ page.address }}
 {% if page.presentation_url %}- **[Presentation Material]({{ page.presentation_url }})** {% endif %}
 
 ### Speakers
