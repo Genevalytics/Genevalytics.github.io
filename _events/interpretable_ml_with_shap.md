@@ -7,6 +7,7 @@ end_time: "8:00 PM"
 location: "University of Geneva, Uni Mail Room M3220"
 address: "Bd du Pont-d'Arve 40, 1205 Genève"
 address_url: "https://maps.app.goo.gl/EuSxiVLrYaZ13Gkp9"
+presentation_url: "https://github.com/csprock/interpretable_ml_with_shap"
 speakers:
   - name: "Carson Sprock"
     title: "Data Scientist"
