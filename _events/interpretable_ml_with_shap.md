@@ -19,7 +19,7 @@ agenda:
   - time: "7:15 PM - 8:00 PM"
     activity: "Networking"
 contact_email: "contact@genevalytics.ch"
-upcoming: true
+upcoming: false
 hide: false
 series_number: 1
 ---
