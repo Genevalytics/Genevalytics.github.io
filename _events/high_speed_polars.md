@@ -7,7 +7,7 @@ end_time: "8:00 PM"
 location: "University of Geneva, Uni Mail Room M3220"
 address: "Bd du Pont-d'Arve 40, 1205 Genève"
 address_url: "https://maps.app.goo.gl/EuSxiVLrYaZ13Gkp9"
-presentation_url: 
+presentation_url: https://github.com/Genevalytics/pandas_vs_polars/tree/master
 speakers:
   - name: "Victor Moreno"
     title: "Quantitative Analyst"
@@ -19,7 +19,7 @@ agenda:
   - time: "7:15 PM - 8:00 PM"
     activity: "Networking and Drinks"
 contact_email: "contact@genevalytics.ch"
-upcoming: true
+upcoming: false
 hide: false
 series_number: 2
 ---
