@@ -18,7 +18,7 @@ contact_email: "contact@genevalytics.ch"
 presentation_url: https://github.com/csprock/docker_tutorials
 upcoming: true
 hide: false
-series_number: 5
+series_number: 6
 ---
 
 The final presentation of the Docker series introduces container orchestration and brings together all the learnings from the previous lessons to build a self-contained dockerized application featuring a database and user-interface to browse it.

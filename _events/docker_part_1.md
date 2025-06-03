@@ -18,7 +18,7 @@ contact_email: "contact@genevalytics.ch"
 presentation_url: https://github.com/csprock/docker_tutorials
 upcoming: true
 hide: false
-series_number: 3
+series_number: 4
 ---
 
 In the first part of this three part series, we will introduce the containerization paradigm for development and important concepts for understanding Docker. Images, containers and Dockerfiles will be introduced and then we will dive in with basic Docker commands. 

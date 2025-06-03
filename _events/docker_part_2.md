@@ -18,7 +18,7 @@ contact_email: "contact@genevalytics.ch"
 presentation_url: https://github.com/csprock/docker_tutorials
 upcoming: true
 hide: false
-series_number: 4
+series_number: 5
 ---
 
 Building on the previous presentation, we will introduce persistent storage in Docker and the difference between bind mounts and volumes and presents examples of each.
