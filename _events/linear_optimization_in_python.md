@@ -6,17 +6,18 @@ start_time: "6:15 PM"
 end_time: "8:00 PM"
 location: "University of Geneva, Uni Mail Room M3220"
 address: "Bd du Pont-d'Arve 40, 1205 Genève"
+address_url: "https://maps.app.goo.gl/EuSxiVLrYaZ13Gkp9"
 speakers:
   - name: "Carson Sprock"
     title: "Data Scientist"
     bio: "Carson is a data scientist from California who has worked in the freight and commodities industries. He is a generalist but has a special interest in time series."
     url: "https://csprock.github.io"
-# agenda:
-#   - time: "6:30 PM - 7:15 PM"
-#     activity: "Presentation and Q&A"
-#   - time: "7:15 PM - 9:00 PM"
-#     activity: "Networking"
-contact_email: "contact@genevalytics.org"
+agenda:
+  - time: "6:15 PM - 7:00 PM"
+    activity: "Presentation and Q&A"
+  - time: "7:15 PM - 8:00 PM"
+    activity: "Networking and Drinks"
+contact_email: "contact@genevalytics.ch"
 presentation_url: https://github.com/csprock/linear_optimization_with_python
 upcoming: true
 hide: false
