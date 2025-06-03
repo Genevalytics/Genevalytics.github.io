@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Introduction to Linear Optimization with Python"
-event_date: "TBD"
-start_time: "TBD"
-end_time: "TBD"
-location: "University of Geneva, Room TBD"
+event_date: "2025-06-11"
+start_time: "6:15 PM"
+end_time: "8:00 PM"
+location: "University of Geneva, Uni Mail Room M3220"
+address: "Bd du Pont-d'Arve 40, 1205 Genève"
 speakers:
   - name: "Carson Sprock"
     title: "Data Scientist"
@@ -19,7 +20,7 @@ contact_email: "contact@genevalytics.org"
 presentation_url: https://github.com/csprock/linear_optimization_with_python
 upcoming: true
 hide: false
-series_number: 2
+series_number: 3
 ---
 
 Linear programming is an important tool in the data scientist's toolbelt. In this presentation, we will use an example from the petroleum industry to introduce linear programming, demonstrating the important components of a linear model, how to set up your model, how to take a non-linear problem and convert it into a linear one, and how to use binary decision variables. We will be using the [pyomo](https://www.pyomo.org/) Python library. 
