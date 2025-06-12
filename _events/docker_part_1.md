@@ -1,19 +1,21 @@
 ---
 layout: page
 title: "Introduction to Docker, Part 1"
-event_date: "TBD"
-start_time: "TBD"
-end_time: "TBD"
-location: "University of Geneva, Room TBD"
+event_date: "2025-06-18"
+start_time: "6:15 PM"
+end_time: "8:00 PM"
+location: "University of Geneva, Uni Mail Room M3220"
+address: "Bd du Pont-d'Arve 40, 1205 Genève"
+address_url: "https://maps.app.goo.gl/EuSxiVLrYaZ13Gkp9"
 speakers:
   - name: "Carson Sprock"
     title: "Data Scientist"
     bio: "Carson is a data scientist from California who has worked in the freight and commodities industries. He is a generalist but has a special interest in time series."
     url: "https://csprock.github.io"
-# agenda:
-#   - time: "6:00 PM - 6:45 PM"
-#     activity: "Presentation and Q&A"
-#   - time: "6:45 PM - 8:00 PM"
+agenda:
+  - time: "6:00 PM - 6:45 PM"
+    activity: "Presentation and Q&A"
+  - time: "6:45 PM - 8:00 PM"
 contact_email: "contact@genevalytics.ch"
 presentation_url: https://github.com/csprock/docker_tutorials
 upcoming: true
