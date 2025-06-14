@@ -13,9 +13,10 @@ speakers:
     bio: "Carson is a data scientist from California who has worked in the freight and commodities industries. He is a generalist but has a special interest in time series."
     url: "https://csprock.github.io"
 agenda:
-  - time: "6:00 PM - 6:45 PM"
+  - time: "6:30 PM - 7:15 PM"
     activity: "Presentation and Q&A"
-  - time: "6:45 PM - 8:00 PM"
+  - time: "7:15 PM - 8:00 PM"
+    activity: "Drinks"
 contact_email: "contact@genevalytics.ch"
 presentation_url: https://github.com/csprock/docker_tutorials
 upcoming: true
