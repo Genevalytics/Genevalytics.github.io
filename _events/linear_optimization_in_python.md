@@ -19,7 +19,7 @@ agenda:
     activity: "Networking and Drinks"
 contact_email: "contact@genevalytics.ch"
 presentation_url: https://github.com/csprock/linear_optimization_with_python
-upcoming: true
+upcoming: false
 hide: false
 series_number: 3
 ---

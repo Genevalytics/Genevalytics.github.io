@@ -2,7 +2,7 @@
 layout: page
 title: "Introduction to Docker, Part 2"
 event_date: "2025-06-25"
-start_time: "6:15 PM"
+start_time: "6:30 PM"
 end_time: "8:00 PM"
 location: "University of Geneva, Uni Mail Room M3220"
 address: "Bd du Pont-d'Arve 40, 1205 Genève"
