@@ -19,7 +19,7 @@ agenda:
     activity: "Drinks"
 contact_email: "contact@genevalytics.ch"
 presentation_url: https://github.com/csprock/docker_tutorials
-upcoming: true
+upcoming: false
 hide: false
 series_number: 4
 ---

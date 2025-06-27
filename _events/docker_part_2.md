@@ -19,12 +19,12 @@ agenda:
     activity: "Drinks"
 contact_email: "contact@genevalytics.ch"
 presentation_url: https://github.com/csprock/docker_tutorials
-upcoming: true
+upcoming: false
 hide: false
 series_number: 5
 ---
 
-Building on the previous presentation, we will introduce persistent storage in Docker and the difference between bind mounts and volumes and presents examples of each.
+Building on the previous presentation, we will introduce persistent storage in Docker and the difference between bind mounts and volumes and presents examples of each. We will also introduce Docker networking and multi-container applications, culminating in a multi-container example application using docker compose that utilizing everything that we have learned from the series. 
 
 ### Event Details
 
