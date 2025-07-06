@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Interpretable Machine Learning with SHAP Values"
-event_date: "2025-07-09"
+event_date: "2025-07-08"
 start_time: "6:30 PM"
 end_time: "8:00 PM"
 location: "University of Geneva, Uni Mail Room MS040"
