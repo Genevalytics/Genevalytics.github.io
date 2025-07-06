@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Call for Speakers
-annoucement_date: 2025-04-07
+title: Call for New Speakers and Organizers
+annoucement_date: 2025-07-06
 hide: false
 ---
 
